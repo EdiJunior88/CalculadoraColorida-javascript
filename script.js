@@ -1,5 +1,4 @@
-<body>
-    <div class="fundo">
+   <div class="fundo">
         <h1 class="titulo">CALCULADORA COLORIDA</h1>
         <div class="calculadora">
             <h3>Vamos calcular!</h3>
@@ -59,4 +58,3 @@
                 document.getElementById('resultado').innerHTML = "Nada..."
             }
         }
-    </script>
